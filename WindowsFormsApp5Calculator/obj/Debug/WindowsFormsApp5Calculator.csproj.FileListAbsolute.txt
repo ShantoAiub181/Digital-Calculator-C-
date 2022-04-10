@@ -1,0 +1,10 @@
+C:\Users\USER\Desktop\C# Projects\WindowsFormsApp5Calculator\bin\Debug\WindowsFormsApp5Calculator.exe.config
+C:\Users\USER\Desktop\C# Projects\WindowsFormsApp5Calculator\bin\Debug\WindowsFormsApp5Calculator.exe
+C:\Users\USER\Desktop\C# Projects\WindowsFormsApp5Calculator\bin\Debug\WindowsFormsApp5Calculator.pdb
+C:\Users\USER\Desktop\C# Projects\WindowsFormsApp5Calculator\obj\Debug\WindowsFormsApp5Calculator.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\C# Projects\WindowsFormsApp5Calculator\obj\Debug\WindowsFormsApp5Calculator.Form1.resources
+C:\Users\USER\Desktop\C# Projects\WindowsFormsApp5Calculator\obj\Debug\WindowsFormsApp5Calculator.Properties.Resources.resources
+C:\Users\USER\Desktop\C# Projects\WindowsFormsApp5Calculator\obj\Debug\WindowsFormsApp5Calculator.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\C# Projects\WindowsFormsApp5Calculator\obj\Debug\WindowsFormsApp5Calculator.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\C# Projects\WindowsFormsApp5Calculator\obj\Debug\WindowsFormsApp5Calculator.exe
+C:\Users\USER\Desktop\C# Projects\WindowsFormsApp5Calculator\obj\Debug\WindowsFormsApp5Calculator.pdb
